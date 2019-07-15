@@ -1,0 +1,4 @@
+#Mon Jul 15 09:26:18 WEST 2019
+base.0=/Users/sergio/Documents/SergioIgreja/MobileSharedLib/lib/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

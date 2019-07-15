@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 15 09:26:18 WEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/sergio/Documents/SergioIgreja/MobileSharedLib/lib/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
